@@ -1,0 +1,10 @@
+F:\C#\Note Taking\Note Taking\bin\Debug\Note Taking.exe.config
+F:\C#\Note Taking\Note Taking\bin\Debug\Note Taking.exe
+F:\C#\Note Taking\Note Taking\bin\Debug\Note Taking.pdb
+F:\C#\Note Taking\Note Taking\obj\Debug\Note Taking.csprojAssemblyReference.cache
+F:\C#\Note Taking\Note Taking\obj\Debug\Note_Taking.Form1.resources
+F:\C#\Note Taking\Note Taking\obj\Debug\Note_Taking.Properties.Resources.resources
+F:\C#\Note Taking\Note Taking\obj\Debug\Note Taking.csproj.GenerateResource.cache
+F:\C#\Note Taking\Note Taking\obj\Debug\Note Taking.csproj.CoreCompileInputs.cache
+F:\C#\Note Taking\Note Taking\obj\Debug\Note Taking.exe
+F:\C#\Note Taking\Note Taking\obj\Debug\Note Taking.pdb
